@@ -8,4 +8,4 @@ def get_country_code(country_name):
 			return code
 		#if the name is not same then return none
 	return None
-#print(get_country_code('Pakistan'))
+#print(get_country_code('India'))
